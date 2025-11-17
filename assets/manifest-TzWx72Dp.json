@@ -1,0 +1,16 @@
+{
+  "short_name": "易經占卜",
+  "name": "I Ching Divination | 易經占卜",
+  "description": "An application to perform I Ching divination. Ask a question, cast the coins, and receive guidance from the ancient Book of Changes.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}
